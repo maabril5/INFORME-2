@@ -21,7 +21,7 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 
 ![image](https://user-images.githubusercontent.com/117920423/202386223-b8d9dddb-2267-44eb-a858-d68f97ec39c3.png)
 
-
+I = V/R
 
 ![image](https://user-images.githubusercontent.com/117920423/202386339-e3454ea9-0647-44da-8ae9-1d2af3a8a0d4.png)
 
@@ -192,7 +192,10 @@ SECCIÓN 4–5 Fuentes de potencia
 6. VIDEO: 
 
 7. BIBLIOGRAFÍA:
-
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
+Gouveia, R. (2022, noviembre 14). ¿Qué es la ley de Ohm y cuál es su fórmula? Toda Materia. https://www.todamateria.com/ley-de-ohm/
+¿Qué es una fuente de poder? (s/f). Acmax.mx. Recuperado el 17 de noviembre de 2022, de https://acmax.mx/que-es-una-fuente-de-poder
+Reliabilityweb.com. (2010, mayo 18). Localización de fallas eléctricas. Reliabilityweb. https://reliabilityweb.com/sp/articles/entry/localizacion-de-fallas-electricas
 
 
 
